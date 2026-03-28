@@ -79,10 +79,10 @@ with piecewise temperature and pressure profiles per atmospheric layer.
 
 
 ### Earth-Orbital Trajectory
-Rocket driven at 50,000 N thrust, then pitched and throttled down in stages. The Stateflow controller manages the pitch manoeuvre and engine cutoff sequence to achieve a stable orbit.
-<img width="998" height="486" alt="image" src="https://github.com/user-attachments/assets/99f5992e-232e-4383-82ec-a2b3bb76b1c1" />
+<img width="548" height="495" alt="image" src="https://github.com/user-attachments/assets/ae8cb6ab-3c45-45d5-9b62-0ffde448acec" />
+<img width="625" height="563" alt="image" src="https://github.com/user-attachments/assets/d2166593-5bba-4837-aeaa-a41f6220e316" />
 
-<img width="672" height="544" alt="image" src="https://github.com/user-attachments/assets/64084751-b915-47b6-b665-88edfe05e004" />
+
 
 
 ---
